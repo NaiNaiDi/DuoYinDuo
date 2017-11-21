@@ -266,12 +266,6 @@ MyPlugin.install = function (Vue, options) {
   };
   //静态小图标
   window.ICONS = {
-    "人员": require('./assets/qjt/renyuan.png'),
-    "物品": require('./assets/qjt/titleImg2.png'),
-    "轨迹": require('./assets/qjt/titleImg3.png'),
-    "案件": require('./assets/qjt/titleImg4.png'),
-    "地点": require('./assets/qjt/titleImg5.png'),
-    "电话": require('./assets/qjt/titleImg6.png'),
   };
   /**
    *
