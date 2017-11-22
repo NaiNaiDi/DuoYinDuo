@@ -7,5 +7,9 @@ import QuanJingTongSerchBgBBB from './QuanJingTongSerch-bg.js';
 const PlainIndex = {
   state: {text: "今晨打飞机"},
 };
+const PlainScore={
+  state:{
 
-export default {QuanJingTongSerchBgBBB, PlainIndex}
+  }
+};
+export default {QuanJingTongSerchBgBBB, PlainScore}
